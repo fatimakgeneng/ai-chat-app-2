@@ -1,1 +1,1 @@
-# fatimakgeneng-ai-chat-app-2
+# ai-chat-app backend
